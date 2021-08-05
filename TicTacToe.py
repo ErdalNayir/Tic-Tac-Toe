@@ -37,14 +37,16 @@ class Game(QWidget):
 
             self.Buttons.append(row)
 
-        y=90
-        x=90
-
+        y=-80
+        
         for i in range(3):
-
+            y+=90
+            x=-80
             for j in range(3):
+                
+                x+=90
 
-                self.Buttons[i][j].setGeometry(x*j+10,y*i+10,81,81)
+                self.Buttons[i][j].setGeometry(x,y,81,81)
 
                 self.Buttons[i][j].setFont(QFont(QFont('Times', 17)))
 

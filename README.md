@@ -8,8 +8,8 @@ Tic-Tac-Toe Games with PyQt5 libary
 
 
 <p float="left">
-  <img src="https://github.com/ErdalNayir/Tic-Tac-Toe/blob/main/image1.JPG" width="100" />
-  <img src="https://github.com/ErdalNayir/Tic-Tac-Toe/blob/main/image2.JPG" width="100" /> 
+  <img src="https://github.com/ErdalNayir/Tic-Tac-Toe/blob/main/image1.JPG" width="250,height="250" />
+  <img src="https://github.com/ErdalNayir/Tic-Tac-Toe/blob/main/image2.JPG" width="100",height="250" /> 
 
 </p>
 
